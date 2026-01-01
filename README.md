@@ -1,2 +1,2 @@
 # Theory-of-Computation-Notes
-CS30021.01 Li Yuan, School of Computer Science, Fudan University
+CS30021.01 **Lecturer: Yuan Li**, School of Computer Science, Fudan University
